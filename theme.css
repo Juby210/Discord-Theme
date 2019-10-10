@@ -68,6 +68,9 @@ body, .appMount-3lHmkl {
 .emojiPicker-3m1S-j .scroller-2FKFPG::-webkit-scrollbar-thumb {
     background: rgba(255, 255, 255, 0.1) !important;
 }
+body {
+    --background-tertiary: transparent;
+}
 /* buttons */
 .form.deprecated .btn-primary, .channel-textarea-guard button, .private-channel-recipients-invite .footer button, .container-3gCOGc .btn,
 .wrapper-O5i5-0 .instantInviteModal-3vhcvC .copy-3nFbq8, .wrapper-O5i5-0 .instantInviteModalAdvanced-3qJETM .form-actions .btn-primary,
